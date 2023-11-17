@@ -3,6 +3,6 @@
     "description": "all language",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/olongg/hexa/builds/plugins.json"
+        "https://raw.githubusercontent.com/olongg/vvc/builds/plugins.json"
     ]
 }
